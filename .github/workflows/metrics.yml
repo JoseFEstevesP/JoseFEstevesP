@@ -20,3 +20,5 @@ jobs:
           output_action: commit
           committer_message: "chore: actualizar metrics"
           user: JoseFEstevesP
+          config_locale: es-ES
+          config_timezone: America/Caracas
