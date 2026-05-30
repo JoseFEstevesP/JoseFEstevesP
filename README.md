@@ -77,37 +77,7 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseFEstevesP&show_icons=true&theme=radical&locale=es" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFEstevesP&layout=compact&theme=radical&locale=es" alt="Top Languages" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseFEstevesP&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoseFEstevesP&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📌 Repositorios Destacados
-
-<p align="center">
-  <a href="https://github.com/JoseFEstevesP/api-nest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseFEstevesP&repo=api-nest&theme=radical" />
-  </a>
-  <a href="https://github.com/JoseFEstevesP/inventorySystem_api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseFEstevesP&repo=inventorySystem_api&theme=radical" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/JoseFEstevesP/autoService">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseFEstevesP&repo=autoService&theme=radical" />
-  </a>
-  <a href="https://github.com/JoseFEstevesP/reactVite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseFEstevesP&repo=reactVite&theme=radical" />
-  </a>
+  <img src="https://github.com/JoseFEstevesP/JoseFEstevesP/blob/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
